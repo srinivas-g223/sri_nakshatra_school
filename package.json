@@ -1,0 +1,12 @@
+{
+  "name": "sri-nakshatra-school",
+  "version": "1.0.0",
+  "description": "Single-page website for Sri Nakshatra School, Ravulapalem",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Static site: nothing to build. Upload index.html and the assets folder.')\""
+  },
+  "license": "UNLICENSED"
+}
