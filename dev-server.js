@@ -1,4 +1,4 @@
-// Tiny zero-dependency static server. Run with: npm run dev
+// Tiny zero-dependency static server for local development.
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
