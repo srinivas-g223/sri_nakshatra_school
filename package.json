@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node server.js",
     "start": "node server.js",
-    "build": "node -e \"console.log('Static site: nothing to build. Upload index.html and the assets folder.')\""
+    "build": "node build.js"
   },
   "license": "UNLICENSED"
 }
